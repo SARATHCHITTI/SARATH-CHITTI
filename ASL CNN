@@ -1,0 +1,40 @@
+# American Sign Language Hand Gesture Recognition
+
+A computer-vision project using a convolutional neural network (CNN) to
+classify American Sign Language hand gestures.
+
+## Overview
+
+The project applies image preprocessing and CNN model training to a
+hand-gesture recognition task.
+
+## Technology
+
+-   Python
+-   TensorFlow/Keras
+-   Convolutional Neural Networks
+-   Image preprocessing
+
+## Project work
+
+-   Developed a CNN-based image-recognition model.
+-   Applied image preprocessing and model-training techniques.
+-   Evaluated predictions and investigated potential improvements.
+
+## Setup and usage
+
+Add the exact steps for your implementation: 1. Document the dataset
+source, permitted use, and class labels. 2. List the Python and package
+versions used. 3. Include the verified model-training and inference
+commands. 4. Explain how to provide an image and interpret the
+prediction. 5. Report evaluation metrics only if measured and
+reproducible.
+
+## Future improvements
+
+-   Add a reproducible train/validation/test split.
+-   Document per-class performance and a confusion matrix.
+-   Test the model on varied lighting, backgrounds, and hand positions.
+
+These are suggested future improvements, not claims about current
+functionality.
