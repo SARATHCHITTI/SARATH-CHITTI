@@ -1,0 +1,62 @@
+# CareBuddy --- AI-Powered Healthcare Assistant
+
+A React-based healthcare assistant capstone project with patient and
+doctor workflows. The application integrates the Google Gemini API for
+informational, non-diagnostic guidance and Firebase for authentication
+and application data.
+
+## Overview
+
+CareBuddy was developed as a team capstone project. The work involved
+coordinating development and integrating AI functionality with
+application workflows.
+
+## Features represented in the project
+
+-   Patient and doctor workflows
+-   Appointment scheduling and reminders
+-   Healthcare record and vitals-related features
+-   Google Gemini API integration for informational, non-diagnostic
+    guidance
+-   Firebase Authentication and Cloud Firestore data workflows
+
+Only retain feature descriptions above that are present and working in
+the published repository.
+
+## Technology
+
+-   React
+-   JavaScript
+-   Google Gemini API
+-   Firebase Authentication
+-   Cloud Firestore
+
+## Contributions
+
+-   Coordinated team work as capstone team lead.
+-   Integrated the Gemini API for informational, non-diagnostic
+    responses.
+-   Worked with Firebase authentication and data workflows.
+-   Contributed to testing, troubleshooting, access-control
+    considerations, and documentation.
+
+## Setup
+
+Add the verified setup steps for your actual project here, including: 1.
+Prerequisites and supported versions 2. Dependency installation command
+3. Required environment variables 4. Local development command 5. Test
+command, if available
+
+Do not commit API keys or Firebase secrets. Use a local environment file
+and provide a sanitized `.env.example` with variable names only.
+
+## Responsible use
+
+This application is for informational support and is not a substitute
+for professional medical advice, diagnosis, or treatment. Do not enter
+real patient information into a public demo.
+
+## Links
+
+-   Live demo: Add a real URL if available
+-   Portfolio: Add your portfolio URL when published
