@@ -1,0 +1,179 @@
+# AI Engineer Project Portfolio
+
+## Sarath Babu Chinige
+
+A curated portfolio of AI, machine-learning, and application-development
+projects.
+
+------------------------------------------------------------------------
+
+## Portfolio Overview
+
+  -----------------------------------------------------------------------
+  Project                 Focus                   Technologies
+  ----------------------- ----------------------- -----------------------
+  CareBuddy ---           Generative AI           React, JavaScript,
+  AI-Powered Healthcare   integration and         Google Gemini API,
+  Assistant               application workflows   Firebase
+
+  Movie Recommendation    Data processing and     Python, Pandas,
+  System                  recommendations         Scikit-learn
+
+  American Sign Language  Computer vision and     Python,
+  Hand Gesture            classification          TensorFlow/Keras, CNN
+  Recognition                                     
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 1. CareBuddy --- AI-Powered Healthcare Assistant
+
+### Overview
+
+CareBuddy is a team capstone project for a React-based healthcare
+application with patient and doctor workflows. It integrates the Google
+Gemini API for informational, non-diagnostic guidance and Firebase
+services for authentication and application data.
+
+### Contributions
+
+-   Served as team lead and coordinated project work.
+-   Helped develop application workflows for patient and doctor roles.
+-   Integrated the Google Gemini API for informational, non-diagnostic
+    responses.
+-   Used Firebase Authentication and Cloud Firestore for sign-in and
+    data workflows.
+-   Contributed to testing, troubleshooting, workflow coordination, and
+    technical documentation.
+
+### Technology
+
+React · JavaScript · Google Gemini API · Firebase Authentication · Cloud
+Firestore
+
+### What I learned
+
+-   Connecting an external LLM API to a web application.
+-   Coordinating feature work and application workflows.
+-   Considering access control, testing, and reliability in an
+    application.
+
+### Responsible-use note
+
+The AI assistant is intended for informational support and is not a
+substitute for professional medical advice, diagnosis, or treatment.
+
+### Links
+
+-   Repository: **Add your real repository URL**
+-   Demo: **Add a real demo URL if available**
+
+------------------------------------------------------------------------
+
+## 2. Movie Recommendation System
+
+### Overview
+
+A Python project that applies data processing and recommendation
+techniques to generate relevant movie suggestions.
+
+### Contributions
+
+-   Used Pandas for data preparation and processing.
+-   Applied Scikit-learn and recommendation techniques.
+-   Reviewed the recommendation workflow through data analysis and model
+    evaluation.
+
+### Technology
+
+Python · Pandas · Scikit-learn
+
+### What I learned
+
+-   Preparing and working with structured data.
+-   Applying machine-learning tools to a recommendation task.
+-   Reviewing model or workflow outputs and identifying areas to
+    improve.
+
+### Links
+
+-   Repository: **Add your real repository URL**
+-   Demo: **Add a real demo URL if available**
+
+------------------------------------------------------------------------
+
+## 3. American Sign Language Hand Gesture Recognition
+
+### Overview
+
+A computer-vision project that uses a convolutional neural network to
+classify American Sign Language hand gestures.
+
+### Contributions
+
+-   Developed a CNN-based image-recognition model with TensorFlow/Keras.
+-   Applied image preprocessing and model-training techniques.
+-   Evaluated predictions and investigated opportunities to improve
+    recognition performance.
+
+### Technology
+
+Python · TensorFlow/Keras · Convolutional Neural Networks · Image
+preprocessing
+
+### What I learned
+
+-   Preparing image data for model training.
+-   Applying CNNs to an image-classification task.
+-   Reviewing model predictions and considering model improvements.
+
+### Links
+
+-   Repository: **Add your real repository URL**
+-   Demo: **Add a real demo URL if available**
+
+------------------------------------------------------------------------
+
+## Technical Skills
+
+-   **Programming & data:** Python, SQL, Pandas, NumPy
+-   **Machine learning:** TensorFlow/Keras, Scikit-learn, CNNs, model
+    testing and validation
+-   **Generative AI:** Google Gemini API, LLM API integration, prompt
+    design fundamentals
+-   **Application development:** React, JavaScript
+-   **Backend and cloud services:** Firebase Authentication, Cloud
+    Firestore, AWS Cloud Foundations
+-   **Tools and practices:** Git, troubleshooting, testing, technical
+    documentation, workflow coordination
+
+## Education & Training
+
+-   **Indiana Institute of Technology** --- Master of Science in
+    Information Systems
+-   **Pace Institute of Technology and Sciences** --- Bachelor of
+    Technology in Artificial Intelligence and Machine Learning
+-   **AI-ML Virtual Internship --- AICTE**
+-   **AWS Academy --- Cloud Foundations**
+-   **MongoDB Internship**
+
+## Certifications & Achievement
+
+-   AWS Academy Graduate --- AWS Academy Cloud Foundations
+-   Introduction to Cybersecurity --- Cisco
+-   HTML Training --- Spoken Tutorial
+-   Runner-up --- National-Level Hackathon, India
+
+------------------------------------------------------------------------
+
+## Before Publishing
+
+1.  Replace each repository placeholder with the correct public GitHub
+    URL.
+2.  Add a screenshot or short GIF only if it accurately represents the
+    working project.
+3.  Include setup instructions, dependencies, sample inputs, and usage
+    examples in each repository.
+4.  Add genuine evaluation results only when you have measured them.
+5.  Never publish API keys, credentials, personal data, or sensitive
+    healthcare information.
